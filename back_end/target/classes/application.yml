@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: back_end
+
+HeFeng:
+  Key: 5519eec137dd4decbaa7b25498765f77
+
+JuHe:
+  NewsKey: 0b22c8edbe4f58eb2819f4ea2a984f8b
+  PlacesKey: aff4db0398db214cfed63c4bb5dd514c
